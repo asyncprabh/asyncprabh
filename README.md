@@ -10,7 +10,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
+- I work on .
 
 
 
